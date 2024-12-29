@@ -1,0 +1,5 @@
+background-color::after {
+    content: normal;
+    display: block;
+    position: absolute
+}
